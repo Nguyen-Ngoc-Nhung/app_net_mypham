@@ -1,0 +1,78 @@
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\bin\Debug\QLMyPham.exe.config
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\bin\Debug\QLMyPham.exe
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\bin\Debug\QLMyPham.pdb
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.Properties.Resources.resources
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.csproj.GenerateResource.Cache
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.exe
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.pdb
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.DangNhap.resources
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.ManHinhAdmin.resources
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.ManHinhNV.resources
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.ThongTinTK.resources
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.Sale.resources
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.csprojResolveAssemblyReference.cache
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.NHANVIEN.resources
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.KhachHang.resources
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.HoaDon.resources
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.ChiTietHoaDon.resources
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.BanHang.resources
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.Bill.resources
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GioiThieu.resources
+E:\congnghe.net\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.DanhMuc.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\bin\Debug\QLMyPham.exe.config
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.exe
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.pdb
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\bin\Debug\QLMyPham.exe
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\bin\Debug\QLMyPham.pdb
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GioiThieu.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.BanHang.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.Bill.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.ChiTietHoaDon.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.DangNhap.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.HoaDon.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.KhachHang.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.ManHinhAdmin.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.ManHinhNV.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.NhanVien.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.Properties.Resources.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.ThongTinTK.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.csproj.GenerateResource.Cache
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.CapNhatTTCN.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.ThongKe.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.TienKhach.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.TienThua.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.DoiMatKhau.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.DanhMuc.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.csprojResolveAssemblyReference.cache
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.HangSapHet.resources
+E:\Công nghệ .NET (ADO.NET)\DoAnMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.SanPham.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\bin\Debug\QLMyPham.exe.config
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.exe
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.pdb
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\bin\Debug\QLMyPham.exe
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\bin\Debug\QLMyPham.pdb
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.csprojResolveAssemblyReference.cache
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.HangSapHet.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.SanPham.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.DanhMuc.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.DoiMatKhau.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GioiThieu.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.BanHang.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.Bill.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.CapNhatTTCN.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.ChiTietHoaDon.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.DangNhap.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.HoaDon.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.KhachHang.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.ManHinhAdmin.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.ManHinhNV.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.NhanVien.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.ThongKe.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.TienKhach.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.GUI.TienThua.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.Properties.Resources.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.ThongTinTK.resources
+E:\Công nghệ .NET (ADO.NET)\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.csproj.GenerateResource.Cache
+E:\Công nghệ .NET (ADO.NET)\baocao\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\bin\Debug\QLMyPham.exe.config
+E:\Công nghệ .NET (ADO.NET)\baocao\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.exe
+E:\Công nghệ .NET (ADO.NET)\baocao\QuanLyCuaHangMyPham\QLMyPham\QLMyPham\obj\Debug\QLMyPham.pdb

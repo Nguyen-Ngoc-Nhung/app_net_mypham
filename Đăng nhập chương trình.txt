@@ -1,0 +1,7 @@
+Quyền
+- admin :
++ tên : admin1 hoặc admin2
++ pass : 123
+- nhân viên
++ tên : nhanvien1 hoặc (nhanvien2,nhanvien3,nhanvien4)
++ pass : 123
